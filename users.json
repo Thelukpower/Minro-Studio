@@ -1,6 +1,6 @@
 {
   "000000000000": {
-    "games": ["above"],
+    "games": ["above os"],
     "name": "1",
     "passwort": "0",
     "id": "000000000000",
@@ -18,7 +18,7 @@
     "codes": {}
   },
   "222222222222": {
-    "games": ["above", "blob2d"],
+    "games": ["above os", "blob2d"],
     "name": "3",
     "passwort": "2",
     "id": "222222222222",
