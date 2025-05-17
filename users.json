@@ -1,28 +1,29 @@
-{   "000000000000": {
-    "games":{"above"},
-    "name":"1",
-    "passwort":"0",
-    "id":"000000000000",
-    "displayname":"",
-    "rang":{},
-    "codes":{}
-    },
-    "111111111111": {
-    "games":{"blob2d"},
-    "name":"2",
-    "passwort":"1",
-    "id":"111111111111",
-    "displayname":"",
-    "rang":{},
-    "codes":{}
-    },
-    "222222222222": {
-    "games":{"above","blob2d"},
-    "name":"3",
-    "passwort":"2",
-    "id":"222222222222",
-    "displayname":"",
-    "rang":{},
-    "codes":{}
-    }
+{
+  "000000000000": {
+    "games": ["above"],
+    "name": "1",
+    "passwort": "0",
+    "id": "000000000000",
+    "displayname": "",
+    "rang": {},
+    "codes": {}
+  },
+  "111111111111": {
+    "games": ["blob2d"],
+    "name": "2",
+    "passwort": "1",
+    "id": "111111111111",
+    "displayname": "",
+    "rang": {},
+    "codes": {}
+  },
+  "222222222222": {
+    "games": ["above", "blob2d"],
+    "name": "3",
+    "passwort": "2",
+    "id": "222222222222",
+    "displayname": "",
+    "rang": {},
+    "codes": {}
+  }
 }
