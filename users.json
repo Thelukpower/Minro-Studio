@@ -1,0 +1,28 @@
+{   "000000000000": {
+    "games":{},
+    "name":"1",
+    "passwort":"0",
+    "id":"000000000000",
+    "displayname":"",
+    "rang":{},
+    "codes":{}
+    },
+    "111111111111": {
+    "games":{},
+    "name":"2",
+    "passwort":"1",
+    "id":"111111111111",
+    "displayname":"",
+    "rang":{},
+    "codes":{}
+    },
+    "222222222222": {
+    "games":{},
+    "name":"3",
+    "passwort":"2",
+    "id":"222222222222",
+    "displayname":"",
+    "rang":{},
+    "codes":{}
+    }
+}
