@@ -33,7 +33,7 @@
     "passwort": "123456789",
     "id": "000000000001",
     "displayname": "Lukas P.",
-    "rang": ["Minro-Creator"],
-    "codes": ["Minro-Creator"]
+    "rang": {"Minro-Creator"},
+    "codes": {"Minro-Creator"}
   }
 }
