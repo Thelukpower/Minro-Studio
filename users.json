@@ -26,4 +26,14 @@
     "rang": {},
     "codes": {}
   }
+},
+  "000000000001": {
+    "games": ["above os", "blob2d"],
+    "name": "Lukas",
+    "passwort": "123456789",
+    "id": "000000000001",
+    "displayname": "Lukas P.",
+    "rang": ["Minro-Creator"],
+    "codes": ["Minro-Creator"]
+  }
 }
