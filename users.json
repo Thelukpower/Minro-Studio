@@ -5,7 +5,7 @@
     "passwort": "0",
     "id": "000000000000",
     "displayname": "",
-    "rang": {},
+    "rang": [],
     "codes": {}
   },
   "111111111111": {
@@ -14,7 +14,7 @@
     "passwort": "1",
     "id": "111111111111",
     "displayname": "",
-    "rang": {},
+    "rang": [],
     "codes": {}
   },
   "222222222222": {
@@ -23,7 +23,7 @@
     "passwort": "2",
     "id": "222222222222",
     "displayname": "",
-    "rang": {},
+    "rang": [],
     "codes": {}
   },
   "000000000001": {
@@ -33,37 +33,42 @@
     "id": "000000000001",
     "displayname": "Lukas P.",
     "rang": ["Minro-Creator"],
-    "codes": {"Minro-Creator": true}
+    "codes": {
+      "Minro-Creator": true
+    }
   },
-
-"000000000002": {
+  "000000000002": {
     "games": ["above os", "blob2d"],
     "name": "Valentin",
     "passwort": "123456789",
     "id": "000000000002",
     "displayname": "Valius.3",
     "rang": ["Minro-Creator"],
-    "codes": {"Minro-Creator": true}
+    "codes": {
+      "Minro-Creator": true
+    }
   },
-
-"000000000003": {
+  "000000000003": {
     "games": ["above os", "blob2d"],
     "name": "Phineas",
     "passwort": "123456789",
     "id": "000000000003",
     "displayname": "Phineas B.F.",
     "rang": ["Mitarbeiter"],
-    "codes": {"Mitarbeiter": true}
+    "codes": {
+      "Mitarbeiter": true
+    }
   },
-
-"000000000004": {
+  "000000000004": {
     "games": ["above os", "blob2d"],
     "name": "Snakepitlonzi",
     "passwort": "123456789",
     "id": "000000000004",
     "displayname": "Snakepitlonzi",
     "rang": ["Mitarbeiter"],
-    "codes": {"Tester": true, "Mitarbeiter": true}
+    "codes": {
+      "Tester": true,
+      "Mitarbeiter": true
+    }
   }
 }
-
