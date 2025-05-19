@@ -40,9 +40,30 @@
     "games": ["above os", "blob2d"],
     "name": "Valentin",
     "passwort": "123456789",
-    "id": "000000000001",
+    "id": "000000000002",
     "displayname": "Valius.3",
     "rang": ["Minro-Creator"],
     "codes": {"Minro-Creator": true}
   }
+},
+"000000000003": {
+    "games": ["above os", "blob2d"],
+    "name": "Phineas",
+    "passwort": "123456789",
+    "id": "000000000003",
+    "displayname": "Phineas B.F.",
+    "rang": ["Mitarbeiter"],
+    "codes": {"Mitarbeiter": true}
+  }
+},
+"000000000004": {
+    "games": ["above os", "blob2d"],
+    "name": "Snakepitlonzi",
+    "passwort": "123456789",
+    "id": "000000000004",
+    "displayname": "Snakepitlonzi",
+    "rang": ["Mitarbeiter"],
+    "codes": {"Tester": true, "Mitarbeiter": true}
+  }
 }
+
