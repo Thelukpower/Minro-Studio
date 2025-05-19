@@ -35,4 +35,14 @@
     "rang": ["Minro-Creator"],
     "codes": {"Minro-Creator": true}
   }
+},
+"000000000002": {
+    "games": ["above os", "blob2d"],
+    "name": "Valentin",
+    "passwort": "123456789",
+    "id": "000000000001",
+    "displayname": "Valius.3",
+    "rang": ["Minro-Creator"],
+    "codes": {"Minro-Creator": true}
+  }
 }
