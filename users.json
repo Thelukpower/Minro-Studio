@@ -34,8 +34,8 @@
     "displayname": "Lukas P.",
     "rang": ["Minro-Creator"],
     "codes": {"Minro-Creator": true}
-  }
-},
+  },
+
 "000000000002": {
     "games": ["above os", "blob2d"],
     "name": "Valentin",
@@ -44,8 +44,8 @@
     "displayname": "Valius.3",
     "rang": ["Minro-Creator"],
     "codes": {"Minro-Creator": true}
-  }
-},
+  },
+
 "000000000003": {
     "games": ["above os", "blob2d"],
     "name": "Phineas",
@@ -54,8 +54,8 @@
     "displayname": "Phineas B.F.",
     "rang": ["Mitarbeiter"],
     "codes": {"Mitarbeiter": true}
-  }
-},
+  },
+
 "000000000004": {
     "games": ["above os", "blob2d"],
     "name": "Snakepitlonzi",
