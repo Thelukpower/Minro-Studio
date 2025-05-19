@@ -70,5 +70,32 @@
       "Tester": true,
       "Mitarbeiter": true
     }
+  },
+  "000000000005": {
+    "games": ["blob2d"],
+    "name": "Nils",
+    "passwort": "123456789",
+    "id": "000000000005",
+    "displayname": "Just Me",
+    "rang": ["Player"],
+    "codes":{}
+  },
+  "000000000006": {
+    "games": ["blob2d"],
+    "name": "Lorenz",
+    "passwort": "123456789",
+    "id": "000000000006",
+    "displayname": "Lorenz 375",
+    "rang": ["Player"],
+    "codes":{}
+  },
+  "000000000007": {
+    "games": ["blob2d"],
+    "name": "Nik",
+    "passwort": "123456789",
+    "id": "000000000007",
+    "displayname": "Nik",
+    "rang": ["Player"],
+    "codes":{}
   }
 }
