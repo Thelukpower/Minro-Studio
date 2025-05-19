@@ -97,5 +97,14 @@
     "displayname": "Nik",
     "rang": ["Player"],
     "codes":{}
+  },
+  "000000000008": {
+    "games": ["blob2d"],
+    "name": "Das_Fisch",
+    "passwort": "1234",
+    "id": "000000000008",
+    "displayname": "Das_Fisch",
+    "rang": ["Player"],
+    "codes":{"0:15":true}
   }
 }
