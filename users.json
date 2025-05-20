@@ -72,7 +72,7 @@
     }
   },
   "000000000005": {
-    "games": ["blob2d"],
+    "games": ["blob2d","above os"],
     "name": "Nils",
     "passwort": "123456789",
     "id": "000000000005",
