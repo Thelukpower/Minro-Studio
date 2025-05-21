@@ -9,7 +9,7 @@
     "codes": {}
   },
   "111111111111": {
-    "games": ["blob2d"],
+    "games": [],
     "name": "2",
     "passwort": "1",
     "id": "111111111111",
@@ -18,7 +18,7 @@
     "codes": {}
   },
   "222222222222": {
-    "games": ["above os", "blob2d"],
+    "games": ["above os"],
     "name": "3",
     "passwort": "2",
     "id": "222222222222",
@@ -27,7 +27,7 @@
     "codes": {}
   },
   "000000000001": {
-    "games": ["above os", "blob2d"],
+    "games": ["above os"],
     "name": "Lukas",
     "passwort": "123456789",
     "id": "000000000001",
@@ -38,7 +38,7 @@
     }
   },
   "000000000002": {
-    "games": ["above os", "blob2d"],
+    "games": ["above os"],
     "name": "Valentin",
     "passwort": "123456789",
     "id": "000000000002",
@@ -49,7 +49,7 @@
     }
   },
   "000000000003": {
-    "games": ["above os", "blob2d"],
+    "games": ["above os"],
     "name": "Phineas",
     "passwort": "123456789",
     "id": "000000000003",
@@ -60,7 +60,7 @@
     }
   },
   "000000000004": {
-    "games": ["above os", "blob2d"],
+    "games": ["above os"],
     "name": "Snakepitlonzi",
     "passwort": "123456789",
     "id": "000000000004",
@@ -72,7 +72,7 @@
     }
   },
   "000000000005": {
-    "games": ["blob2d","above os"],
+    "games": ["above os"],
     "name": "Nils",
     "passwort": "123456789",
     "id": "000000000005",
@@ -81,7 +81,7 @@
     "codes":{}
   },
   "000000000006": {
-    "games": ["blob2d"],
+    "games": [],
     "name": "Lorenz",
     "passwort": "123456789",
     "id": "000000000006",
@@ -90,7 +90,7 @@
     "codes":{}
   },
   "000000000007": {
-    "games": ["blob2d"],
+    "games": [],
     "name": "Nik",
     "passwort": "123456789",
     "id": "000000000007",
@@ -99,7 +99,7 @@
     "codes":{}
   },
   "000000000008": {
-    "games": ["blob2d"],
+    "games": [],
     "name": "Das_Fisch",
     "passwort": "1234",
     "id": "000000000008",
